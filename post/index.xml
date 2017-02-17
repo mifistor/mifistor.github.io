@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mifistor.ru</title>
-    <link>http://mifistor.github.io/post/</link>
+    <link>https://mifistor.github.io/post/</link>
     <description>Recent content in Posts on mifistor.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Tue, 20 Dec 2016 23:08:35 +0300</lastBuildDate>
-    <atom:link href="http://mifistor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mifistor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>
-      <link>http://mifistor.github.io/post/hello-world/</link>
+      <link>https://mifistor.github.io/post/hello-world/</link>
       <pubDate>Tue, 20 Dec 2016 23:08:35 +0300</pubDate>
       
-      <guid>http://mifistor.github.io/post/hello-world/</guid>
+      <guid>https://mifistor.github.io/post/hello-world/</guid>
       <description>&lt;p&gt;Это просто тестовая страница. Попробуем написать чего-нибудь &lt;strong&gt;жирным текстом&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
