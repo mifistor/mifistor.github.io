@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on mifistor.ru</title>
+    <link>https://mifistor.github.io/page/</link>
+    <description>Recent content in Pages on mifistor.ru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <managingEditor>mifistor@gmail.com (Михаил Дымсков)</managingEditor>
+    <webMaster>mifistor@gmail.com (Михаил Дымсков)</webMaster>
+    <lastBuildDate>Fri, 03 Mar 2017 13:09:57 +0300</lastBuildDate>
+    <atom:link href="https://mifistor.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Обо мне</title>
+      <link>https://mifistor.github.io/page/about/</link>
+      <pubDate>Fri, 03 Mar 2017 13:09:57 +0300</pubDate>
+      <author>mifistor@gmail.com (Михаил Дымсков)</author>
+      <guid>https://mifistor.github.io/page/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;персональный-блог-священника-михаила-дымскова:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Персональный блог священника Михаила Дымскова&lt;/h1&gt;
+
+&lt;p&gt;Это мой личный сайт, тут я делюсь с друзьями и близкими своими мыслями. Отсюда очень простое правило - я пишу здесь всё что мне вздумается и если что-то не нравится, просто покиньте сайт :)&lt;/p&gt;
+
+&lt;h2 id=&#34;связь-со-мной:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Связь со мной&lt;/h2&gt;
+
+&lt;p&gt;Раставлено по приоритету.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Почта: mifistor@gmail.com&lt;/li&gt;
+&lt;li&gt;Мессенджеры (есть Viber, WhatsApp, Telegram) и почти все соцсети;&lt;/li&gt;
+&lt;li&gt;Телефон: +79537078810 (я не всегда могу ответить, но постараюсь перезвонить);&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Руковожу Информационным отделом Увароской епархии с момента её создания. Поддерживаю сайт и снимаю передачу о епархии. Разбираюсь в системном администрировании и Linux-системах. Программирую в свободное время и считаю это лучшим хобби на свете.&lt;/p&gt;
+
+&lt;p&gt;Считаю многие современные компьютерные игры произведением искусства и в самые лучшие играю.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

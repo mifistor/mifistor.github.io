@@ -3,13 +3,23 @@
   
   <url>
     <loc>https://mifistor.github.io/</loc>
-    <lastmod>2016-12-20T23:08:35+03:00</lastmod>
+    <lastmod>2017-03-03T13:33:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mifistor.github.io/post/hello-world/</loc>
-    <lastmod>2016-12-20T23:08:35+03:00</lastmod>
+    <loc>https://mifistor.github.io/post/2017/02/2017-02-03_umeret_ot_chastya/</loc>
+    <lastmod>2017-03-03T13:33:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mifistor.github.io/about/_index/</loc>
+    <lastmod>2017-03-03T13:09:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mifistor.github.io/page/about/</loc>
+    <lastmod>2017-03-03T13:09:57+03:00</lastmod>
   </url>
   
 </urlset>
