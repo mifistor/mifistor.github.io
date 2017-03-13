@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on mifistor.ru</title>
-    <link>https://mifistor.github.io/page/</link>
+    <link>https://mifistor.github.io/page/index.xml</link>
     <description>Recent content in Pages on mifistor.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
@@ -19,11 +19,11 @@
       <guid>https://mifistor.github.io/page/about/</guid>
       <description>
 
-&lt;h1 id=&#34;персональный-блог-священника-михаила-дымскова:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Персональный блог священника Михаила Дымскова&lt;/h1&gt;
+&lt;h1 id=&#34;персональный-блог-священника-михаила-дымскова&#34;&gt;Персональный блог священника Михаила Дымскова&lt;/h1&gt;
 
 &lt;p&gt;Это мой личный сайт, тут я делюсь с друзьями и близкими своими мыслями. Отсюда очень простое правило - я пишу здесь всё что мне вздумается и если что-то не нравится, просто покиньте сайт :)&lt;/p&gt;
 
-&lt;h2 id=&#34;связь-со-мной:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Связь со мной&lt;/h2&gt;
+&lt;h2 id=&#34;связь-со-мной&#34;&gt;Связь со мной&lt;/h2&gt;
 
 &lt;p&gt;Раставлено по приоритету.&lt;/p&gt;
 
