@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mifistor.github.io/post/2017/03/2017-03-25_mir_selo/</loc>
+    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mifistor.github.io/post/2017/03/2017-03-21_mif/</loc>
     <lastmod>2017-03-21T22:10:04+03:00</lastmod>
   </url>
@@ -62,7 +67,7 @@
   
   <url>
     <loc>https://mifistor.github.io/post/</loc>
-    <lastmod>2017-03-21T22:10:04+03:00</lastmod>
+    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,7 +78,13 @@
   
   <url>
     <loc>https://mifistor.github.io/</loc>
-    <lastmod>2017-03-21T22:10:04+03:00</lastmod>
+    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mifistor.github.io/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</loc>
+    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
