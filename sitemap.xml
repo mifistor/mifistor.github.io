@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mifistor.github.io/post/2017/05/2017-05-17_saint_chubaka/</loc>
+    <lastmod>2017-05-17T22:12:04+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mifistor.github.io/post/2017/03/2017-03-25_mir_selo/</loc>
     <lastmod>2017-03-25T22:10:04+03:00</lastmod>
   </url>
@@ -48,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://mifistor.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mifistor.github.io/tags/dolphin/</loc>
     <lastmod>2017-03-11T22:10:04+03:00</lastmod>
     <priority>0</priority>
@@ -67,18 +77,19 @@
   
   <url>
     <loc>https://mifistor.github.io/post/</loc>
-    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
+    <lastmod>2017-05-17T22:12:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mifistor.github.io/tags/</loc>
+    <lastmod>2017-03-03T13:33:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mifistor.github.io/</loc>
-    <lastmod>2017-03-25T22:10:04+03:00</lastmod>
+    <lastmod>2017-05-17T22:12:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,6 +108,12 @@
   <url>
     <loc>https://mifistor.github.io/tags/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8-%D0%B2%D1%81%D0%BB%D1%83%D1%85/</loc>
     <lastmod>2017-03-21T22:10:04+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mifistor.github.io/tags/%D1%8E%D0%BC%D0%BE%D1%80/</loc>
+    <lastmod>2017-05-17T22:12:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   

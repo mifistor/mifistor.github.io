@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on mifistor.ru</title>
-    <link>https://mifistor.github.io/page/index.xml</link>
+    <link>https://mifistor.github.io/page/</link>
     <description>Recent content in Pages on mifistor.ru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <managingEditor>mifistor@gmail.com (Михаил Дымсков)</managingEditor>
     <webMaster>mifistor@gmail.com (Михаил Дымсков)</webMaster>
     <lastBuildDate>Fri, 03 Mar 2017 13:09:57 +0300</lastBuildDate>
-    <atom:link href="https://mifistor.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mifistor.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Обо мне</title>
@@ -17,26 +19,9 @@
       <pubDate>Fri, 03 Mar 2017 13:09:57 +0300</pubDate>
       <author>mifistor@gmail.com (Михаил Дымсков)</author>
       <guid>https://mifistor.github.io/page/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;персональный-блог-священника-михаила-дымскова&#34;&gt;Персональный блог священника Михаила Дымскова&lt;/h1&gt;
-
-&lt;p&gt;Это мой личный сайт, тут я делюсь с друзьями и близкими своими мыслями. Отсюда очень простое правило - я пишу здесь всё что мне вздумается и если что-то не нравится, просто покиньте сайт :)&lt;/p&gt;
-
-&lt;h2 id=&#34;связь-со-мной&#34;&gt;Связь со мной&lt;/h2&gt;
-
-&lt;p&gt;Раставлено по приоритету.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Почта: mifistor@gmail.com&lt;/li&gt;
-&lt;li&gt;Мессенджеры (есть Viber, WhatsApp, Telegram) и почти все соцсети;&lt;/li&gt;
-&lt;li&gt;Телефон: +79537078810 (я не всегда могу ответить, но постараюсь перезвонить);&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Руковожу Информационным отделом Уваровской епархии с момента её создания. Поддерживаю сайт и снимаю передачу о епархии. Разбираюсь в системном администрировании и Linux-системах. Программирую в свободное время и считаю это лучшим хобби на свете.&lt;/p&gt;
-
-&lt;p&gt;Считаю многие современные компьютерные игры произведением искусства и в самые лучшие играю.&lt;/p&gt;
-</description>
+      <description>Персональный блог священника Михаила Дымскова Это мой личный сайт, тут я делюсь с друзьями и близкими своими мыслями. Отсюда очень простое правило - я пишу здесь всё что мне вздумается и если что-то не нравится, просто покиньте сайт :)
+Связь со мной Раставлено по приоритету.
+ Почта: mifistor@gmail.com Мессенджеры (есть Viber, WhatsApp, Telegram) и почти все соцсети; Телефон: +79537078810 (я не всегда могу ответить, но постараюсь перезвонить);  Руковожу Информационным отделом Уваровской епархии с момента её создания.</description>
     </item>
     
   </channel>
