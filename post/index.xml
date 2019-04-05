@@ -8,12 +8,17 @@
     <language>ru</language>
     <managingEditor>mifistor@gmail.com (Михаил Дымсков)</managingEditor>
     <webMaster>mifistor@gmail.com (Михаил Дымсков)</webMaster>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 05 Apr 2019 10:18:50 +0300</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 19 Mar 2019 20:21:55 +0300</lastBuildDate>
+>>>>>>> c8975f17ef5b9e53f8cfdcd05f07b92352dba149
     
 	<atom:link href="https://mifistor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Мне очень жаль наших детей</title>
       <link>https://mifistor.github.io/post/2019/04/2019-04-05_sovremennoe_obrazovanie/</link>
       <pubDate>Fri, 05 Apr 2019 10:18:50 +0300</pubDate>
@@ -24,6 +29,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> c8975f17ef5b9e53f8cfdcd05f07b92352dba149
       <title>Раньше люди были добрее</title>
       <link>https://mifistor.github.io/post/2019/03/2019-03-19_dobrota_i_socialnost/</link>
       <pubDate>Tue, 19 Mar 2019 20:21:55 +0300</pubDate>
